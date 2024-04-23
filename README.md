@@ -1,5 +1,6 @@
 <div align="center">
- <iframe src="https://giphy.com/embed/MPs2YlHbImSO4pH4UF" width="480" height="400" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Verohallinto-computing-verohallinto-epic-tax-guy-MPs2YlHbImSO4pH4UF">via GIPHY</a></p>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2VuaW5ocmFuMTJ6YWZ0d2pyNTk2YzAwYWFidzZkZ2g0eTB4ZWsyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MPs2YlHbImSO4pH4UF/giphy.gif" width="100%" height="auto" />
+
 </div>
 
 <h1 align="center">I'm doing this for the students, not for the stars. 😂 👌</h1>
