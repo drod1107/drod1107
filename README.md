@@ -42,10 +42,11 @@ Before becoming a dev, I was a:
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drod1107)](https://github.com/drod1107/github-readme-stats)
 
 ### 📈 GitHub Stats:
 
-[![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=drod1107&show_icons=true&theme=radical)](https://github.com/drod1107/github-readme-stats)
+[![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=drod1107&show_icons=true&theme=amber_gradient)](https://github.com/drod1107/github-readme-stats)
 
 ### 📊 Weekly Development Breakdown:
 
