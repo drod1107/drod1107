@@ -29,8 +29,8 @@ Want me to do that for you? I'd be delighted. Let's connect!
 Before becoming a dev, I was a: 
 - flatbed long haul trucker
 - co-manager of a half million dollar a year violin business
-- a private investigator
-- a personal trainer
+- private investigator
+- personal trainer
 
 **I probably understand your customers better than you might think. 😁**
 ---
