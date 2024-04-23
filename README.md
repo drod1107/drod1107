@@ -50,13 +50,7 @@ Before becoming a dev, I was a:
 
 ### 📊 Weekly Development Breakdown:
 
-<!--START_SECTION:waka-->
-```text
-JavaScript   4 hrs 20 mins   ██████████████████░░░░░░░   72.00 %
-Python       1 hr 10 mins    ████▒░░░░░░░░░░░░░░░░░░░░   19.50 %
-Other        30 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 %
-```
-<!--END_SECTION:waka-->
+<figure><embed src="https://wakatime.com/share/@9bc01738-da2c-4553-9da4-315fc85a585e/c1d77984-a701-4728-b2c7-d4660b35aa10.svg"></embed></figure>
 
 
 ---
