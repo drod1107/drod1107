@@ -19,11 +19,21 @@ Want me to do that for you? I'd be delighted. Let's connect!
 
 - 🔭 I’m currently working on fully local deployments of LLMs with my eye on blended local/api driven MoE agents
 - 🌱 I’m currently learning more Python and more cloud DevOps.
-- 👯 I’m looking to collaborate on everything to St Louis area community development projects to employee onboarding systems. If it's nerdy and good for the world, hit me up!
+- 👯 I’m looking to collaborate on everything from St Louis area community development projects to employee onboarding systems. If it's nerdy and good for the world, hit me up!
 - 💬 Ask me about gut health and foraged foods! But only if you're in a comfortable chair with some time on your hands. 🤓
 - 📫 How to reach me: david@windrose.dev
 - 😄 Pronouns: He, Him, His (But I honestly identify more as a carbon-based, simian-formatted LLM deployment.)
-- ⚡ Fun fact: Before becoming a dev, I've been a flatbed long haul trucker, comanager of a half million dollar a year violin business, a private investigator, and a personal trainer. I probably understand your customers better than you might think. 😁
+
+---
+⚡ Fun fact: 
+Before becoming a dev, I was a: 
+- flatbed long haul trucker
+- co-manager of a half million dollar a year violin business
+- a private investigator
+- a personal trainer
+
+**I probably understand your customers better than you might think. 😁**
+---
 
 ### 🛠️ Languages and Tools:
 
