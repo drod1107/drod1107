@@ -48,9 +48,5 @@ Before becoming a dev, I was a:
 
 [![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=drod1107&show_icons=true&theme=ambient_gradient)](https://github.com/drod1107/github-readme-stats)
 
-### 📊 Weekly Development Breakdown:
-
-<figure><embed src="https://wakatime.com/share/@9bc01738-da2c-4553-9da4-315fc85a585e/c1d77984-a701-4728-b2c7-d4660b35aa10.svg"></embed></figure>
-
 
 ---
