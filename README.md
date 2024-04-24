@@ -2,9 +2,14 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2VuaW5ocmFuMTJ6YWZ0d2pyNTk2YzAwYWFidzZkZ2g0eTB4ZWsyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MPs2YlHbImSO4pH4UF/giphy.gif" width="100%" height="auto" />
 
 </div>
+<p>Image credit: Giphy.com</p>
 
 <h1 align="center">I'm doing this for the students, not for the stars. 😂 👌</h1>
-
+<p>
+I'm demoing a concept for our full stack web development Bootcamp. 
+Curious to learn more? Head to:
+<a href="https://savvycoders.com/fullstackwebdevelopment">Savvy Coders' website</a>
+</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/david-windrose/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn Badge"/></a>
   <a href="https://windroseandco.com"><img src="https://img.shields.io/badge/Website-green?style=flat-square" alt="Website Badge"/></a>
@@ -23,6 +28,7 @@ Want me to do that for you? I'd be delighted. Let's connect!
 - 💬 Ask me about gut health and foraged foods! But only if you're in a comfortable chair with some time on your hands. 🤓
 - 📫 How to reach me: david@windrose.dev
 - 😄 Pronouns: He, Him, His (But I honestly identify more as a carbon-based, simian-formatted LLM deployment.)
+- I'm also a proud member of the teaching  staff and admin team @savvy-coders!
 
 ---
 ⚡ Fun fact: 
