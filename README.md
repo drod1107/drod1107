@@ -46,8 +46,7 @@ Before becoming a dev, I was a:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drod1107&theme=ambient_gradient)](https://github.com/drod1107/github-readme-stats)
 
 ### 📈 GitHub Stats:
-
-[![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=drod1107&show_icons=true&theme=ambient_gradient)](https://github.com/drod1107/github-readme-stats)
+[![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=drod1107&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage](https://github.com/drod1107/github-readme-stats)
 
 
 ---
