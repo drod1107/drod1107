@@ -4,12 +4,7 @@
 </div>
 <p>Image credit: Giphy.com</p>
 
-<h1 align="center">I'm doing this for the students, not for the stars. 😂 👌</h1>
-<p>
-I'm demoing a concept for our full stack web development Bootcamp. 
-Curious to learn more? Head to:
-<a href="https://savvycoders.com/fullstackwebdevelopment">Savvy Coders' website</a>
-</p>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/david-windrose/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn Badge"/></a>
   <a href="https://windroseandco.com"><img src="https://img.shields.io/badge/Website-green?style=flat-square" alt="Website Badge"/></a>
