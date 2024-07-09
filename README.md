@@ -23,7 +23,7 @@ Want me to do that for you? I'd be delighted. Let's connect!
 - 💬 Ask me about gut health and foraged foods! But only if you're in a comfortable chair with some time on your hands. 🤓
 - 📫 How to reach me: david@windrose.dev
 - 😄 Pronouns: He, Him, His (But I honestly identify more as a carbon-based, simian-formatted LLM deployment.)
-- I'm also a proud member of the teaching  staff and admin team @savvy-coders!
+- Former member of the teaching  staff and admin team @savvy-coders!
 
 ---
 ⚡ Fun fact: 
