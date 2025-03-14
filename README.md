@@ -13,17 +13,19 @@
 ---
 
 ### 👨‍💻 About Me:
-I'm David Rodriguez, and I'm obsessed with efficiency and eliminating stress. Everything that bores business owners and makes work feel like work? Yeah, that's what computers are for, and making them do it is my favorite thing ever.
+I'm David Rodriguez, a software developer passionate about automation, optimization, and problem-solving. I specialize in making technology work smarter so businesses can focus on what truly matters.
 
-Want me to do that for you? I'd be delighted. Let's connect!
+🔭 Current Work: Deploying fully local LLMs and exploring hybrid local/API-driven MoE agents (running ollama/openWebUI on my localhost using docker and serving up a quantized Deepseek-R1 model presently)
 
-- 🔭 I’m currently working on fully local deployments of LLMs with my eye on blended local/api driven MoE agents
-- 🌱 I’m currently learning more Python and more cloud DevOps.
-- 👯 I’m looking to collaborate on everything from St Louis area community development projects to employee onboarding systems. If it's nerdy and good for the world, hit me up!
-- 💬 Ask me about gut health and foraged foods! But only if you're in a comfortable chair with some time on your hands. 🤓
-- 📫 How to reach me: david@windrose.dev
-- 😄 Pronouns: He, Him, His (But I honestly identify more as a carbon-based, simian-formatted LLM deployment.)
-- Former member of the teaching  staff and admin team @savvy-coders!
+🌱 Learning: Advancing expertise in Python and Cloud DevOps (working through GC AI/ML fundamentals cert currently).
+
+👯 Collaboration: Open to projects in St. Louis community development, employee onboarding systems, and AI-driven automation.
+
+📫 Contact: david@windrose.dev
+
+😄 Pronouns: He/Him
+
+🎓 Background: Former instructor & admin at Savvy Coders; former FS2 QA Automation Engineer, Leidos; built [Landman Legal Website](https://landman.legal); learn more about Windrose & Co. at [our website](https://www.windroseandco.com)
 
 ---
 ⚡ Fun fact: 
@@ -33,7 +35,7 @@ Before becoming a dev, I was a:
 - private investigator
 - personal trainer
 
-**I probably understand your customers better than you might think. 😁**
+** My background has given me tremendous insight and empathy into customer scenarios across numerous industries, making me extraordinarily useful in forward-deployed and customer-facing roles! **
 ---
 
 ### 🛠️ Languages and Tools:
