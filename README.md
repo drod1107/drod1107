@@ -35,7 +35,7 @@ Before becoming a dev, I was a:
 - private investigator
 - personal trainer
 
-** My background has given me tremendous insight and empathy into customer scenarios across numerous industries, making me extraordinarily useful in forward-deployed and customer-facing roles! **
+**My background has given me tremendous insight and empathy into customer scenarios across numerous industries, making me extraordinarily useful in forward-deployed and customer-facing roles!**
 ---
 
 ### 🛠️ Languages and Tools:
